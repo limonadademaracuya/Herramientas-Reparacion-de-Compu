@@ -8,6 +8,12 @@
 ## MediCat USB
 - https://medicatusb.com/
 
+## Rufus
+- https://rufus.ie/es/#download
+
+## Ventoy
+- https://sourceforge.net/projects/ventoy/files/v1.1.12/ventoy-1.1.12-windows.zip/download
+
 ## Linux Mint
 - https://linuxmint.com/download_all.php
 
