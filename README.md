@@ -1,0 +1,18 @@
+# Enlaces para descargar
+
+## DLC Boot 2016
+
+## Hiren's BootCD
+- https://www.hirensbootcd.org/download/
+
+## MediCat USB
+- https://medicatusb.com/
+
+## Linux Mint
+- https://linuxmint.com/download_all.php
+
+## Windows 10
+- https://www.microsoft.com/es-es/software-download/windows10
+
+## Windows 11
+- https://www.microsoft.com/es-es/software-download/windows11
