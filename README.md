@@ -20,6 +20,15 @@
 ## Linux Mint
 - https://linuxmint.com/download_all.php
 
+## Linux Ubuntu Cinnamon 
+- https://cdimage.ubuntu.com/ubuntucinnamon/releases/resolute/release/
+
+## Linux Ubuntu Mate
+- https://ubuntu-mate.org/download/
+
+## Linux versiones varias
+- https://ubuntu.com/desktop/flavors
+
 ## Windows 10
 - https://www.microsoft.com/es-es/software-download/windows10
 
