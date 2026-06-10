@@ -1,6 +1,7 @@
 # Enlaces para descargar
 
 ## DLC Boot 2016
+- https://www.informaticovitoria.com/dlc-boot-2016-el-pendrive-indispensable-que-debes-tener/
 
 ## Hiren's BootCD
 - https://www.hirensbootcd.org/download/
